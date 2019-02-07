@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decipher111/dice-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decipher111/dice-game/issues"
+  },
+  "homepage": "https://github.com/decipher111/dice-game#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
